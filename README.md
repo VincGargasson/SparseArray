@@ -14,7 +14,7 @@ returned result = {'ab': 1, 'bc': 2}
 
 Clone this repo on your local computer
 ```bash
-git clone XXXX
+git clone git@github.com:VincGargasson/SparseArray.git
 ```
 
 
